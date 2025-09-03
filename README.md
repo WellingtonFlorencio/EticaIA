@@ -18,4 +18,4 @@ Mecanismos de explicabilidade para candidatos.
 
 A tecnologia deve reduzir desigualdades, não reforçá-las.
 
-📄 Relatório completo em PDF: https://lnkd.in/ducYxaR5
+📄 Relatório completo em PDF:(https://github.com/WellingtonFlorencio/EticaIA/blob/main/Trabalho_Etica_IA_Amazon_Formatado.pdf)
